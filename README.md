@@ -54,9 +54,9 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![Screenshot 2023-06-15 121336](https://github.com/chaitanya18c/FindMaximum/assets/119392724/237030eb-6cf5-4052-b066-216ea117e877)
-![Screenshot 2023-06-15 121835](https://github.com/chaitanya18c/FindMaximum/assets/119392724/d67acf75-bbe1-4be1-93ba-4c2040d9947a)
-![Screenshot 2023-06-15 121851](https://github.com/chaitanya18c/FindMaximum/assets/119392724/e7681fc1-91bc-47eb-af59-341c73503621)
+![Screenshot 2023-06-15 122251](https://github.com/chaitanya18c/FindMaximum/assets/119392724/5b99b8d7-901a-4246-be00-a4b71339f2a6)
+![Screenshot 2023-06-15 122302](https://github.com/chaitanya18c/FindMaximum/assets/119392724/f35c438e-51d9-4870-a401-7942b27d76e5)
+![Screenshot 2023-06-15 122312](https://github.com/chaitanya18c/FindMaximum/assets/119392724/a707ab91-2ed3-4e8e-bd17-01112b49fece)
 
 
 ## Result:
